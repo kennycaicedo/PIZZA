@@ -1,9 +1,9 @@
 body {
-  background: url('../img/cover.jpg') no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
+  background: url('../img/pizzabox.jpg) no-repeat center center fixed;
+  -webkit-background-size: pizzabox;
+  -moz-background-size: pizzabox;
+  background-size: pizzabox;
+  -o-background-size: pizzabox;
 }
 
 #body_description
